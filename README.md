@@ -1,5 +1,5 @@
-# 台股前50大權值股量化因子選股系統
-## TW50 Multi-Layer Quantitative Stock Screener
+# 台股前300大權值股量化因子選股系統
+## TW300 Multi-Layer Quantitative Stock Screener
 
 ---
 
